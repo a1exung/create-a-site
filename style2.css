@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
